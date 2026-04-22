@@ -1,0 +1,11 @@
+player_name,position,age,height_cm,weight_kg,training_hours,matches_played,previous_injuries,knee_strength,hamstring_flexibility,reaction_time,balance_score,sprint_speed,agility,sleep_hours,stress,nutrition,warmup,minutes_played,games_played,days_since_last_injury,sprint_distance_ratio,competition_density_7,competition_density_28,avatar
+Luca Ventoro,Defender,27,185.0,70.0,10,16,1,82.5,82.5,240,88.75,3.54,82.5,9.375,55.0,82.5,7.5,1250,16,42,0.91,2,6,assets/luca_ventoro.png
+Noah Silva,Forward,22,178.0,73.0,30,24,0,60.0,60.0,400,70.0,1.9,60.0,5.0,90.0,60.0,0.0,1735,24,120,1.06,7,20,assets/noah_silva.png
+Mateo Kova,Midfielder,28,181.0,76.0,14,30,2,6.0,5.0,255,6.0,2.4,6.0,6.0,6.0,6.0,7.0,2210,30,18,1.11,4,10,assets/mateo_kova.png
+Ethan Cross,Goalkeeper,30,191.0,84.0,8,20,1,8.0,7.0,230,8.0,2.5,6.0,7.0,3.0,7.0,8.0,1800,20,75,0.82,2,5,assets/avatar_default.png
+Rafael Costa,Forward,27,176.0,74.0,30,34,8,90.0,90.0,150,95.0,3.4,90.0,5.0,90.0,90.0,10.0,2540,34,9,1.21,7,20,assets/avatar_default.png
+Daniel Ivers,Defender,24,187.0,79.0,11,26,1,7.0,7.0,235,7.0,2.2,7.0,7.0,4.0,7.0,8.0,2010,26,54,0.95,3,7,assets/avatar_default.png
+Omar Haddad,Midfielder,26,180.0,75.0,12,28,2,6.0,6.0,250,6.0,2.5,6.0,6.0,5.0,6.0,7.0,2150,28,23,1.02,4,9,assets/avatar_default.png
+Kai Mensah,Forward,21,174.0,69.0,15,31,1,5.0,4.0,280,5.0,3.1,5.0,6.0,7.0,6.0,6.0,2380,31,14,1.17,5,11,assets/avatar_default.png
+Leo Marino,Defender,29,188.0,82.0,9,21,2,6.0,5.0,260,5.0,2.6,5.0,6.0,6.0,6.0,6.0,1670,21,27,0.89,3,6,assets/avatar_default.png
+Jonas Reed,Midfielder,23,179.0,72.0,10,22,0,8.0,8.0,220,8.0,2.1,8.0,8.0,3.0,8.0,9.0,1715,22,98,0.94,2,6,assets/avatar_default.png
